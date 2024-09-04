@@ -1,6 +1,5 @@
 # Dice - Roller
 
-A new Flutter project.
 This is a small android application to play dice. This generate random value for dice when click the 'Roll a dice' button. This application just build as a practice of my flutter leaning journey as a beginner.
 
 ## Getting Started
